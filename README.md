@@ -1,7 +1,7 @@
 # Multi-Temporal Analysis of Indian Lakes Using Sentinel-2 Imagery and NDWI (2018–2024)
 
 **Author:** Pranav Prayaga  
-**Internship:** IDEAS @ Indian Statistical Institute, Kolkata (Spring 2026)  
+**Internship:** Summer internship 2026 @ IIT DELHI
 **Branch:** `lake_area_variation_analysis` (Individual Contribution)  
 **Project Type:** Standalone Chapter for Group Repository
 
